@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets and local environment
+.env
+.streamlit/secrets.toml
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
